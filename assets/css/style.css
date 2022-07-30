@@ -1,0 +1,16 @@
+
+input#serach {
+    padding: 3px;
+    width: 256px;
+    border-radius: 3px;
+    margin: 16px;
+    font-family: "Sofia", sans-serif;
+    font-size: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    text-align: left;
+    text-shadow: 3px 3px 3px #ababab;
+}
+i.fas.fa-bars {
+    color: #6a6666;
+}
